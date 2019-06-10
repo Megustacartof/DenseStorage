@@ -27,7 +27,7 @@ import java.util.*;
 
 public class DenseChestInventory extends BaseCraftInventory {
 
-    private static final int MAX_STACK_COUNT = 45;
+    private static final int MAX_STACK_COUNT = 1800;
     private static final int MAX_STACK_SIZE = Integer.MAX_VALUE;
     private static final Constructor<ItemMeta> CRAFT_META_ITEM_CONSTRUCTOR;
 
